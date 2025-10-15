@@ -1,0 +1,262 @@
+[
+  {
+    "disease": "Common Cold",
+    "symptoms": [
+      "cough",
+      "sore throat",
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "age_group": "all",
+    "severity": "normal",
+    "precautions": [
+      "Rest",
+      "Drink warm fluids",
+      "Use tissues when sneezing",
+      "Wash hands frequently"
+    ],
+    "medicines": {
+      "child": [
+        "Paracetamol syrup",
+        "Cough syrup (as per pediatrician)"
+      ],
+      "adult": [
+        "Paracetamol tablet",
+        "Cough lozenges"
+      ]
+    }
+  },
+  {
+    "disease": "Influenza (Flu)",
+    "symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "cough",
+      "fatigue",
+      "headache"
+    ],
+    "age_group": "all",
+    "severity": "normal",
+    "precautions": [
+      "Rest",
+      "Stay hydrated",
+      "Avoid contact with others",
+      "Seek medical care if breathing difficulty"
+    ],
+    "medicines": {
+      "child": [
+        "Paracetamol syrup",
+        "Consult pediatrician for antivirals"
+      ],
+      "adult": [
+        "Paracetamol tablet",
+        "Antiviral (if prescribed)"
+      ]
+    }
+  },
+  {
+    "disease": "Dengue",
+    "symptoms": [
+      "high fever",
+      "headache",
+      "joint pain",
+      "rash",
+      "nausea",
+      "vomiting"
+    ],
+    "age_group": "all",
+    "severity": "critical",
+    "precautions": [
+      "Drink plenty of fluids",
+      "Rest",
+      "Avoid NSAIDs like aspirin/ibuprofen unless advised",
+      "Seek immediate medical attention if bleeding occurs"
+    ],
+    "medicines": {
+      "child": [
+        "Paracetamol syrup"
+      ],
+      "adult": [
+        "Paracetamol tablet"
+      ]
+    }
+  },
+  {
+    "disease": "Malaria",
+    "symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "headache",
+      "nausea"
+    ],
+    "age_group": "all",
+    "severity": "critical",
+    "precautions": [
+      "Avoid mosquito bites",
+      "Use nets and repellents",
+      "Seek medical attention for testing and treatment"
+    ],
+    "medicines": {
+      "child": [
+        "Artemether-lumefantrine syrup (as prescribed)"
+      ],
+      "adult": [
+        "Artemether-lumefantrine tablet (as prescribed)"
+      ]
+    }
+  },
+  {
+    "disease": "Typhoid",
+    "symptoms": [
+      "prolonged fever",
+      "weakness",
+      "stomach pain",
+      "diarrhea",
+      "loss of appetite"
+    ],
+    "age_group": "all",
+    "severity": "critical",
+    "precautions": [
+      "Drink safe/boiled water",
+      "Maintain hygiene",
+      "Cook food thoroughly",
+      "Seek medical care for testing"
+    ],
+    "medicines": {
+      "child": [
+        "Azithromycin syrup (as prescribed)"
+      ],
+      "adult": [
+        "Cefixime or Azithromycin (as prescribed)"
+      ]
+    }
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": [
+      "severe headache",
+      "nausea",
+      "sensitivity to light",
+      "blurred vision",
+      "aura"
+    ],
+    "age_group": "all",
+    "severity": "normal",
+    "precautions": [
+      "Rest in a dark, quiet room",
+      "Avoid known triggers",
+      "Stay hydrated"
+    ],
+    "medicines": {
+      "child": [
+        "Paracetamol syrup (for relief)"
+      ],
+      "adult": [
+        "Ibuprofen or prescribed triptan (as advised)"
+      ]
+    }
+  },
+  {
+    "disease": "Urinary Tract Infection (UTI)",
+    "symptoms": [
+      "burning urination",
+      "frequent urination",
+      "lower abdominal pain",
+      "cloudy urine",
+      "fever"
+    ],
+    "age_group": "all",
+    "severity": "normal",
+    "precautions": [
+      "Drink plenty of water",
+      "Maintain hygiene",
+      "See a doctor for urine test"
+    ],
+    "medicines": {
+      "child": [
+        "Antibiotic syrup (as prescribed)"
+      ],
+      "adult": [
+        "Antibiotics (e.g., nitrofurantoin or as prescribed)"
+      ]
+    }
+  },
+  {
+    "disease": "Gastroenteritis (Food Poisoning)",
+    "symptoms": [
+      "diarrhea",
+      "vomiting",
+      "stomach cramps",
+      "fever",
+      "nausea"
+    ],
+    "age_group": "all",
+    "severity": "normal",
+    "precautions": [
+      "Hydration with ORS",
+      "Avoid solid food until vomiting subsides",
+      "Seek medical care if severe"
+    ],
+    "medicines": {
+      "child": [
+        "Oral rehydration solution and symptomatic syrup"
+      ],
+      "adult": [
+        "Oral rehydration, antiemetic if prescribed"
+      ]
+    }
+  },
+  {
+    "disease": "Strep Throat",
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "swollen lymph nodes",
+      "difficulty swallowing",
+      "tonsillar exudate"
+    ],
+    "age_group": "all",
+    "severity": "normal",
+    "precautions": [
+      "Avoid close contact",
+      "Gargle with warm salt water",
+      "See a doctor for throat swab"
+    ],
+    "medicines": {
+      "child": [
+        "Amoxicillin syrup (as prescribed)"
+      ],
+      "adult": [
+        "Amoxicillin or penicillin (as prescribed)"
+      ]
+    }
+  },
+  {
+    "disease": "Chickenpox",
+    "symptoms": [
+      "fever",
+      "blister-like rash",
+      "itching",
+      "fatigue",
+      "loss of appetite"
+    ],
+    "age_group": "all",
+    "severity": "normal",
+    "precautions": [
+      "Isolate until lesions crust over",
+      "Avoid scratching",
+      "Keep skin clean"
+    ],
+    "medicines": {
+      "child": [
+        "Calamine lotion, fever reducer (paracetamol)"
+      ],
+      "adult": [
+        "Antiviral (if severe) and paracetamol for fever (as advised)"
+      ]
+    }
+  }
+]
