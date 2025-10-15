@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>HealthBot - College Project</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="chat-container">
+    <h1>🩺 HealthBot</h1>
+    <div class="chat-box" id="chat-box"></div>
+    <div class="controls">
+      <input type="number" id="age" placeholder="Enter your age" min="0" required>
+      <input type="text" id="message" placeholder="Enter symptoms, comma separated" required>
+      <button id="send-btn">Send</button>
+    </div>
+    <p class="note">Note: This is an educational demo. For medical concerns, consult a doctor.</p>
+  </div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
